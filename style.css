@@ -1,125 +1,50 @@
-body{
-    background-color:aliceblue;
-}
 .header{
-    display: flex;
-    gap: 50%;
-    border: solid 1px;
-    border-radius: 4px;
-    background-color:green;
-    color: white;
-    padding: px;
-    margin-top: 20px;
-    
-
+    padding:20px;
+    background-color: green;
+    color:white;
+    display:flex;
+    gap:10%;
 }.vallona{
     display:flex;
-    gap:50px;
-    color:black;
-    padding-top: 2px;
-}.summer{
-    background-image: url();
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: medium;
-    height: vh;
-    width:1px;
-    background-size: cover;
-    padding-top: 1px;
-}.inspiration{
-    
+    gap:5%;
+}
+ .summer{
+        position: relative;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: medium;
+        padding-top: 1px;
+ }
+#words{
+  position: absolute;
+   top: 60%;
+   font-size: large;
+   margin-top: 40px;
+}.plants{
 
-}.inspirationalplan{
-float: right;
-gap:20px;
-}.grow{
-   float:right; 
-}.orchid{
-    float:right;
-}.seventy{
-    color:green;
-}.sixty{
-    color:green;
-}.container{
-    gap:2%;
-}.green{
-    gap:20px;
-}.topsale{
+}
+#container{
+    display: flex;
+    gap: 40px;
+    padding: 5px;
+    
+}.coiner2{
+    display: flex;
+}
+.topsale{
     display:flex;
     gap:20px;
-    padding-top: 40px;
     border-radius: 10px;
-}.allsaleplant{
-    display:flex;
-    text-align:center;
     justify-content: center;
-}.collectionimages{
-    display:flex;
-    gap:5%;
-    justify-content: center;
+    
+    padding:2px;
+}
+.allsaleplant{
     text-align: center;
-}.texts{
-    display:flex;
-    gap:5%;
-    justify-content: center;
-    text-align: center;
-}.text{
-    display:flex;
-    gap:7%;
-    justify-content: center;
-    text-align: center;
-}.collectionimage{
+    
+}
+.collectionimage{
     display: flex;
     gap:5%;
     justify-content: center;
     text-align: center;
-}.glass{
-    float:right;
-}.dollar{
-    color:green;
-}.shop{
-    background-color: green;
-    border-radius: 4px;
-    padding:20px;
-    color:white;
-}.featured{
-    text-align: center;
-    justify-content: center;
-}.featured p{
-    color:green;
-}.image2{
-    float:left;
-}.bottle{
-   float:right; 
-}.now{
-    padding:20px;
-    background-color: green;
-    color:white;
-    border-radius: 4px;
-}.view{
-    display:flex;
-    padding:20px;
-    background-color:green;
-    color:white;
-    border-radius:4px;
-}.living{
-    background-image: url(images/pexels-dominika-roseclay-912413.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    justify-content: center;
-    float:right;
-    height: 90vh;
-    padding:10%;
-    align-content: center;
-}.more{
-    display:flex;
-    padding:20px;
-    background-color:green;
-    color:white;
-    border-radius:4px;
-}.viewmore{
-    display:flex;
-
-}.container4{
-    display:flex;
 }
