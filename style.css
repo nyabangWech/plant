@@ -3,7 +3,7 @@
     background-color: green;
     color:white;
     display:flex;
-    gap:10%;
+    gap:30%;
 }.vallona{
     display:flex;
     gap:5%;
@@ -12,7 +12,7 @@
         position: relative;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-size: medium;
-        padding-top: 1px;
+        padding-top: 35px;
  }
 #words{
   position: absolute;
@@ -35,6 +35,7 @@
     gap:20px;
     border-radius: 10px;
     justify-content: center;
+    float:right;
     
     padding:2px;
 }
@@ -47,4 +48,263 @@
     gap:5%;
     justify-content: center;
     text-align: center;
+}
+.glass{
+    float:right;
+    margin-top: auto;
+}.shop{
+    padding:20px;
+    background-color: green;
+    color:white;
+    font-size: medium;
+    border-radius: 4px;
+}.fresh{
+    text-align: center;
+    justify-content: center;
+}.Trees{
+    display:flex;
+}.image2{
+    float:left;
+}.now{
+    padding:20px;
+    background-color: green;
+    color:white;
+    border-radius: 4px;
+}#bott{
+    gap:2%;
+    padding:20px;
+}.bottle{
+    
+    text-align: center;
+    justify-content: center;
+}.living{
+    background-image: url(images/pexels-huy-phan-3891103.jpg);
+    background-repeat: no-repeat;
+    width:1000px;
+    margin-top: 200px;
+    justify-content: center;
+    text-align: center;
+    padding:20px;
+    height:30vh;
+    color:aliceblue;
+}.view{
+    padding: 20px;
+    background-color: green;
+    color:white;
+}.more{
+    padding:20px;
+    background-color: green;
+    color:white;
+}.amazing{
+    
+}.Aliquam{
+    display:flex;
+    gap:2%;
+}.popular{
+    display:flex;
+    padding:20px;
+}.drought{
+    float:left;
+}.images8{
+    display:flex;
+    gap:10%;
+}#zura{
+    display:flex;
+    border-radius: 50%;
+    gap:30px;
+    justify-content: center;
+    text-align: center;
+}.love{
+    text-align: center;
+    justify-content: center;
+}.brownish{
+    border-radius: 50px;
+}.girly{
+    border-radius: 50px;
+}.boyish{
+    border-radius: 50px;
+}#goods{
+    text-align: center;
+    justify-content: center;
+}.footer{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    gap:10%;
+    padding:20px;
+    border: solid 1px white;
+    bottom: 0;
+}.email{
+    padding: 20px;
+    background-color: aliceblue;
+    color:black;
+    border-radius: 4px;
+
+}.subcribe{
+    padding:20px;
+    background-color: green;
+    color:white;
+    border-radius: 4px;
+    
+}.numbers{
+    color:green;
+} @media screen and (max-width:1024px) and (min-width:280px){
+
+
+    .header{
+        padding:10px;
+        background-color: green;
+        color:white;
+        display:flex;
+        gap:5px;
+    }.vallona{
+        flex-wrap: wrap;
+        gap:5px;
+    }
+     .summer{
+            position: relative;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: medium;
+            padding-top: 5px;
+     }
+    #words{
+      position: absolute;
+       top: 20px;
+       font-size: large;
+       margin-top: 10px;
+    }.plants{
+    
+    }
+    #container{
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 2px;
+        
+    }.container2{
+        flex-wrap: wrap;
+    }
+    .topsale{
+        flex-wrap: wrap;
+        gap:2px;
+        border-radius: 2px;
+        justify-content: center;
+        float:right;
+        
+        padding:2px;
+    }
+    .allsaleplant{
+        text-align: center;
+        
+    }
+    .collectionimage{
+        flex-wrap: wrap;
+        gap:2px;
+        justify-content: center;
+        text-align: center;
+    }
+    .glass{
+        float:right;
+        margin-top: auto;
+    }.shop{
+        padding:20px;
+        background-color: red;
+        color:white;
+        font-size: medium;
+        border-radius: 4px;
+    }.fresh{
+        text-align: center;
+        justify-content: center;
+    }.Trees{
+        display:flex;
+    }.image2{
+        float:left;
+    }.now{
+        padding:2px;
+        background-color: green;
+        color:white;
+        border-radius: 2px;
+    }#bott{
+        gap:2px;
+        padding:20px;
+    }.bottle{
+        
+        text-align: center;
+        justify-content: center;
+    }.living{
+        background-image: url(images/pexels-huy-phan-3891103.jpg);
+        background-repeat: no-repeat;
+        width:50px;
+        margin-top: 10px;
+        justify-content: center;
+        text-align: center;
+        padding:1px;
+        height:5vh;
+        color:aliceblue;
+    }.view{
+        padding: 2px;
+        background-color: red;
+        color:white;
+    }.more{
+        padding:2px;
+        background-color:red;
+        color:white;
+    }.amazing{
+        
+    }.Aliquam{
+        flex-wrap: wrap;
+        gap:2px;
+    }.popular{
+        flex-wrap: wrap;
+        padding:2px;
+    }.drought{
+        float:left;
+    }.images8{
+        flex-wrap: wrap;
+        gap:1px;
+    }#zura{
+        flex-wrap: wrap;
+        border-radius: 5%;
+        gap:10px;
+        justify-content: center;
+        text-align: center;
+    }.love{
+        text-align: center;
+        justify-content: center;
+    }.brownish{
+        border-radius: 10px;
+    }.girly{
+        border-radius: 10px;
+    }.boyish{
+        border-radius: 10px;
+    }#goods{
+        text-align: center;
+        justify-content: center;
+    }.footer{
+        display:flex;
+        text-align: center;
+        justify-content: center;
+        gap:1px;
+        padding:2px;
+        border: solid 1px white;
+        bottom: 0;
+    }.email{
+        padding: 2px;
+        background-color: aliceblue;
+        color:black;
+        border-radius: 2px;
+    
+    }.subcribe{
+        padding:2px;
+        background-color: green;
+        color:white;
+        border-radius: 2px;
+
+
+
+
+
+
+    
+
+}
 }
